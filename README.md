@@ -115,6 +115,8 @@ The ETL pipeline follows the following procedure:
 
     -   Do a SELECT for each of the questions from the relevant tables to verify that the data is correct.
 
+    -   Finally, close the connection to the database.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
