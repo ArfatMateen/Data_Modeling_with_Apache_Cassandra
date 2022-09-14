@@ -38,6 +38,7 @@
       </ul>
     </li>
     <li><a href="#file-structure">File Structure</a></li>
+    <li><a href="#how-to-run">How To Run</a></li>
     <li><a href="#etl-pipeline">ETL Pipeline</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
