@@ -93,6 +93,22 @@ The startup wants their data to be loaded into an Apache Cassandra database desi
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## How To Run
+
+### Prerequisite
+
+-   Prepare the Python environment by typing the following command into the Terminal
+
+    ```
+    $ pip install -r requirements.txt
+    ```
+
+### Running scripts
+
+-   Execute each cell in sequence in `etl.ipynb` file, inside a Jupyter Notebook environment.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## ETL Pipeline
 
 The ETL pipeline follows the following procedure:
